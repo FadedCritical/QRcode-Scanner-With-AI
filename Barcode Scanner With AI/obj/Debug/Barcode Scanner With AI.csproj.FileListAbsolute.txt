@@ -1,0 +1,129 @@
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\Barcode Scanner With AI.exe.config
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\Barcode Scanner With AI.exe
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\Barcode Scanner With AI.pdb
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\AForge.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\AForge.Video.DirectShow.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\AForge.Video.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\zxing.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\zxing.presentation.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\AForge.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\AForge.Video.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\AForge.Video.DirectShow.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\zxing.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\zxing.presentation.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode Scanner With AI.csproj.AssemblyReference.cache
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode_Scanner_With_AI.Form1.resources
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode_Scanner_With_AI.Properties.Resources.resources
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode Scanner With AI.csproj.GenerateResource.cache
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode Scanner With AI.csproj.CoreCompileInputs.cache
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode Scanner With AI.exe
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode Scanner With AI.pdb
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\libSkiaSharp.dylib
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\x86\libSkiaSharp.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\x64\libSkiaSharp.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\arm64\libSkiaSharp.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\x64\libSkiaSharp.so
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\arm\libSkiaSharp.so
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\arm64\libSkiaSharp.so
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\musl-x64\libSkiaSharp.so
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\BarcodeStandard.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\QRCoder.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\SkiaSharp.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Buffers.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Memory.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Numerics.Vectors.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Resources.Extensions.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Text.Encodings.Web.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Text.Json.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.ValueTuple.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\SkiaSharp.pdb
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\SkiaSharp.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Buffers.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Memory.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Numerics.Vectors.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Resources.Extensions.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Text.Encodings.Web.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Text.Json.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.ValueTuple.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\x86\sqlite3.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\x64\sqlite3.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\EntityFramework.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\EntityFramework.SqlServer.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Data.SQLite.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Data.SQLite.EF6.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Data.SQLite.Linq.dll
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\EntityFramework.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\EntityFramework.SqlServer.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Data.SQLite.xml
+D:\CIS262AD\Barcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode .746A0BEA.Up2Date
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\x86\sqlite3.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\x64\sqlite3.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\Barcode Scanner With AI.exe.config
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\Barcode Scanner With AI.exe
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\Barcode Scanner With AI.pdb
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\AForge.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\AForge.Video.DirectShow.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\AForge.Video.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\BarcodeStandard.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\EntityFramework.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\EntityFramework.SqlServer.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\QRCoder.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\SkiaSharp.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Buffers.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Collections.Immutable.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Data.SQLite.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Data.SQLite.EF6.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Data.SQLite.Linq.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Formats.Nrbf.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.IO.Pipelines.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Memory.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Numerics.Vectors.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Reflection.Metadata.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Resources.Extensions.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Text.Encodings.Web.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Text.Json.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.ValueTuple.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\zxing.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\zxing.presentation.dll
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\AForge.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\AForge.Video.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\AForge.Video.DirectShow.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\EntityFramework.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\EntityFramework.SqlServer.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\SkiaSharp.pdb
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Buffers.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Collections.Immutable.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Data.SQLite.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Formats.Nrbf.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.IO.Pipelines.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Memory.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Numerics.Vectors.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Reflection.Metadata.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Resources.Extensions.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Text.Encodings.Web.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Text.Json.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\System.ValueTuple.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\zxing.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\bin\Debug\zxing.presentation.xml
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode Scanner With AI.csproj.AssemblyReference.cache
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode_Scanner_With_AI.Form1.resources
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode_Scanner_With_AI.Properties.Resources.resources
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode Scanner With AI.csproj.GenerateResource.cache
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode Scanner With AI.csproj.CoreCompileInputs.cache
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode .746A0BEA.Up2Date
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode Scanner With AI.exe
+E:\CIS262AD\QRcode Scanner With AI\Barcode Scanner With AI\obj\Debug\Barcode Scanner With AI.pdb
